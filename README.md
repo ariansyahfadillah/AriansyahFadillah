@@ -1,5 +1,5 @@
-### Hi there 👋
----
+## Hi there!
+
 - My name is **Ariansyah Fadillah**.
 - I'm currently a student at STTBandung.
 - I’m currently learning to be Programmer.
